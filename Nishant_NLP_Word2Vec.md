@@ -15,7 +15,7 @@ If;  man:woman ::king: ?</b>
 
 E<sub>man</sub>-E<sub>woman</sub>=E<sub>king</sub>-E<sub>?</sub>+e </b>
 
-![](Nishant11769/Images/analogy.png)
+![]Images/analogy.png)
 
 The value of E<sub>?</sub> that minimizes the magnitude of e turns out to be the embedding for the required word i.e 'queen':</b>
 
