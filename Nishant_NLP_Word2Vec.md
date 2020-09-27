@@ -51,4 +51,7 @@ similarity between words. Hence a more accurate embedding matrix learnt.</b>
 8. The above steps are done for every context-target pair
 
 **Great! Now that you have an intuitive, theoritical knowledge of the Word2Vec algorithm you are ready to understand
-how it actually funtions. So check out the jupyter notebook I have made with the name _Nishant_NLP_Word2Vec.ipynb_ and play around with the code** _(follow the guidelines given in the notebook if modifying to avoid errors)_
+how it actually funtions. So check out the jupyter notebook I have made with the name _Nishant_NLP_Word2Vec.ipynb_ and play around with the code** _(follow the guidelines given in the notebook if modifying to avoid errors)_</b></b>
+
+### All The Best :smiley:
+
