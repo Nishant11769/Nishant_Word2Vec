@@ -26,3 +26,4 @@ where the distance function D is usually cosine although root mean squared dista
 Word embeddings can be thought of as a method by which a NLP model understands the meaning of a word and further applies it to other similar words. The embedding matrix can be treated as a parameter and it's values can be learned using the Word2Vec model which will now be discussed.</b>
 
 ## Word2Vec Model
+
